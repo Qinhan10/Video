@@ -1,0 +1,24 @@
+4-channel HDMI video capture card
+　　Product Features
+
+　　Host interface: PCIE 2.0 X4 20Gb/s
+
+　　Input format: HDMI 1.4
+
+　　Output color: YUY2
+
+　　Input resolution: Up to 1080P@60fps
+
+　　Hardware support: 1080 Interlaced Scan, 3D DNR
+
+　　System support: Windows XP/7/8.1/10 32bit/64bit;  Linux(v4l2)
+
+　　HDMI input up to 1080p60Hz, support 1080i
+
+　　PCIe capture streaming up to 1080p60Hz
+
+　　Aduio capture: HDMI 8CH embedded in SD / HD / FHD
+
+　　High efficiency heat sink
+
+　　Multiple cards are shared to build the matrix
